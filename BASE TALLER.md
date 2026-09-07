@@ -1,8 +1,8 @@
 # Reporte de Base de Datos: Sistema de Gestión de Taller Automotriz
 
 **Materia:** Bases de Datos  
-**Repositorio:** GitHub (Repo Privado)  
-**Formato:** Markdown (`README.md` / Documentación Digital)  
+**Repositorio:** GitHub (Isaac Daniel Barrera Canales 6to Semestre Grupo 2)  
+**Formato:** Markdown (`README.md` / Documentación Digital/ Base de Datos Taller Mecanico)  
 **Estructura del Reporte:** IDC (Introducción, Desarrollo, Conclusión)
 
 ---

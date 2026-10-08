@@ -31,6 +31,8 @@ Contenido:
 
 Base de Taller
 
+Práctica 0. Biblioteca.md
+
 Exercise 1 - Ejercicios básicos de SQL
 
 Exercise 2 - Análisis de tabla Automovil

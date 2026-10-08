@@ -1,9 +1,9 @@
 Bases de Datos Distribuidas
-Prácticas correspondientes a la asignatura Bases de Datos Distribuidas.
+Prácticas correspondientes a la asignatura Bases de Datos Distribuidas del 2do Parcial.
 
 Contenido
 
-BasedeTaller.md
+BaseTaller.md
 
 Exercise 1
 

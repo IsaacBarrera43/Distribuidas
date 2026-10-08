@@ -1,6 +1,13 @@
 Bases de Datos Distribuidas
+
 UAEH - ICBI
+
 Prácticas correspondientes a la asignatura Bases de Datos Distribuidas del 2do Parcial.
+
+░█▀▄░█▀▄░█▀▄
+░█▀▄░█░█░█░█
+░▀▀░░▀▀░░▀▀░
+
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   
 ░░░░░░░░░░▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄░░░░░░░░░   

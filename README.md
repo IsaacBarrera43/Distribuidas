@@ -50,7 +50,9 @@ Autor
 Isaac Daniel Barrera Canales
 
  /\_/\\
+ 
 ( o.o )
+
  > ^ <
 
 Nyan Cat aprueba esta práctica ✅
